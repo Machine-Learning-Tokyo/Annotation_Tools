@@ -21,6 +21,6 @@ doccano is an open source text annotation tool for human. It provides annotation
 
 ## INCEpTION
 
-A semantic annotation platform offering intelligent assistance and knowledge management. It's free and offers more functionalities than prodi.gy. https://inception-project.github.io
+A semantic annotation platform offering intelligent assistance and knowledge management. It's free and more feature-rich than prodi.gy. https://inception-project.github.io
 
 [<p align="center"><img src="https://inception-project.github.io//images/screenshot-annotation.png" width="600"></p>](https://inception-project.github.io)
