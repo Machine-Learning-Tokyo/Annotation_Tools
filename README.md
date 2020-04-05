@@ -1,5 +1,12 @@
 # Open Source Annotation Tools for Computer Vision and NLP tasks
 
+- [Computer Vision](#computer-vision)
+  - [Make Sense](#make-sense)
+- [Natural Language Processing](#natural-language-processing)
+  - [Doccano](#doccano)
+  - [INCEpTION](#inception)
+
+
 # Computer Vision
 
 ## Make Sense
