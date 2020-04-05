@@ -18,3 +18,25 @@ doccano is an open source text annotation tool for human. It provides annotation
 
 [1]: http://makesense.ai
 [2]: https://github.com/SkalskiP/make-sense
+
+## INCEpTION
+
+A semantic annotation platform offering intelligent assistance and knowledge management. It's free and more feature-rich than prodi.gy. https://inception-project.github.io
+
+[<p align="center"><img src="https://inception-project.github.io//images/screenshot-annotation.png" width="600"></p>](https://inception-project.github.io)
+<sup>
+```
+@inproceedings{tubiblio106270,
+      year = {2018},
+     title = {The INCEpTION Platform: Machine-Assisted and Knowledge-Oriented Interactive Annotation},
+    author = {Jan-Christoph Klie and Michael Bugert and Beto Boullosa and Richard Eckart de Castilho and Iryna Gurevych},
+ publisher = {Association for Computational Linguistics},
+ booktitle = {Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations},
+     pages = {5--9},
+     month = {Juni},
+  abstract = {We introduce INCEpTION, a new annotation platform for tasks including interactive and semantic annotation  (e.g., concept linking, fact linking, knowledge base population, semantic frame annotation). These tasks are very time consuming and demanding for annotators, especially when knowledge bases are used. We address these issues by developing an annotation platform that incorporates machine learning capabilities which actively assist and guide annotators. The platform is both generic and modular. It targets a range of research domains in need of semantic annotation, such as digital humanities, bioinformatics, or linguistics. INCEpTION is publicly available as open-source software.},
+       url = {http://tubiblio.ulb.tu-darmstadt.de/106270/},
+  keywords = {UKP\_p\_INCEpTION;UKP\_a\_LangTech4eHum;UKP\_reviewed}
+}
+```
+</sup>
