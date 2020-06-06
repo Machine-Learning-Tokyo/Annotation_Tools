@@ -2,6 +2,7 @@
 
 - [Computer Vision](#computer-vision)
   - [Make Sense](#make-sense)
+  - [CVAT](#cvat)
 - [Natural Language Processing](#natural-language-processing)
   - [Doccano](#doccano)
   - [INCEpTION](#inception)
@@ -14,6 +15,24 @@
 [makesense.ai][1] is a free to use online tool for labelling photos. Thanks to the use of a browser it does not require any complicated installation - just visit the website and you are ready to go. It also doesn't matter which operating system you're running on - we do our best to be truly cross-platform. It is perfect for small computer vision deeplearning projects, making the process of preparing a dataset much easier and faster. Prepared labels can be downloaded in one of multiple supported formats. Documentation and more details can be found in the project [repository][2].
 
 [<p align="center"><img src="./polygon-demo.gif" width="600"></p>](https://github.com/SkalskiP/make-sense)
+
+## CVAT
+
+The Computer Vision Annotation Tool (CVAT) is a free, online, interactive video and image annotation tool for Computer Vision. Many UI and UX decisions are based on feedback from professional data annotation teams. 
+
+- [OpenCV/CVAT on GitHub](https://github.com/opencv/cvat)
+
+#### Video tutorials
+- Introduction [[video]](https://www.youtube.com/watch?v=L9_IvUIHGwM&feature=youtu.be)
+- Annotation mode [[video]](https://www.youtube.com/watch?v=6h7HxGL6Ct4&feature=youtu.be)
+- Interpolation mode [[video]](https://www.youtube.com/watch?v=U3MYDhESHo4&feature=youtu.be)
+- Attribute mode [[video]](https://www.youtube.com/watch?v=UPNfWl8Egd8&feature=youtu.be)
+- Segmentation mode [[video]](https://www.youtube.com/watch?v=Fh8oKuSUIPs&feature=youtu.be)
+- Tutorial for polygons [[video]](https://www.youtube.com/watch?v=XTwfXDh4clI)
+- Semi-automatic segmentation [[video]](https://www.youtube.com/watch?v=vnqXZ-Z-VTQ)
+
+[<p align="center"><img src="https://github.com/opencv/cvat/blob/develop/cvat/apps/documentation/static/documentation/images/cvat.jpg" width="600"></p>](https://github.com/opencv/cvat)
+
 
 # Natural Language Processing
 
@@ -31,19 +50,4 @@ doccano is an open source text annotation tool for human. It provides annotation
 A semantic annotation platform offering intelligent assistance and knowledge management. It's free and more feature-rich than prodi.gy. https://inception-project.github.io
 
 [<p align="center"><img src="https://inception-project.github.io//images/screenshot-annotation.png" width="600"></p>](https://inception-project.github.io)
-<sup>
-```
-@inproceedings{tubiblio106270,
-      year = {2018},
-     title = {The INCEpTION Platform: Machine-Assisted and Knowledge-Oriented Interactive Annotation},
-    author = {Jan-Christoph Klie and Michael Bugert and Beto Boullosa and Richard Eckart de Castilho and Iryna Gurevych},
- publisher = {Association for Computational Linguistics},
- booktitle = {Proceedings of the 27th International Conference on Computational Linguistics: System Demonstrations},
-     pages = {5--9},
-     month = {Juni},
-  abstract = {We introduce INCEpTION, a new annotation platform for tasks including interactive and semantic annotation  (e.g., concept linking, fact linking, knowledge base population, semantic frame annotation). These tasks are very time consuming and demanding for annotators, especially when knowledge bases are used. We address these issues by developing an annotation platform that incorporates machine learning capabilities which actively assist and guide annotators. The platform is both generic and modular. It targets a range of research domains in need of semantic annotation, such as digital humanities, bioinformatics, or linguistics. INCEpTION is publicly available as open-source software.},
-       url = {http://tubiblio.ulb.tu-darmstadt.de/106270/},
-  keywords = {UKP\_p\_INCEpTION;UKP\_a\_LangTech4eHum;UKP\_reviewed}
-}
-```
-</sup>
+
