@@ -3,6 +3,7 @@
 - [Computer Vision](#computer-vision)
   - [Make Sense](#make-sense)
   - [CVAT](#cvat)
+  - [Classif.ai](#classifai)
 - [Natural Language Processing](#natural-language-processing)
   - [Doccano](#doccano)
   - [INCEpTION](#inception)
@@ -33,6 +34,27 @@ The Computer Vision Annotation Tool (CVAT) is a free, online, interactive video 
 
 [<p align="center"><img src="https://github.com/opencv/cvat/blob/develop/cvat/apps/documentation/static/documentation/images/cvat.jpg" width="600"></p>](https://github.com/opencv/cvat)
 
+## Classif.ai
+
+Classifai aims to be one of the most comprehensive open-source data annotation platforms available.
+It supports the labelling of various data types with multi labelled outputs forms for AI model training.
+Plus it runs locally on your computer.
+
+Classifai has native builds for Windows, Linux and MacOS so it's easy to get started.
+
+Figure below show how Classifai fits in the machine learning workflow.
+It enables the labelling of raw data imported from data source.
+The labelled data can then channel into training environments for supervised / semi-supervised learning.
+
+[<p align="center"><img src="https://github.com/CertifaiAI/classifai/blob/main/metadata/bounding_box_0.gif" width="600"></p>](https://github.com/CertifaiAI/classifai)
+
+Classifai also comes with a Conversion Launcher which is useful for Optical Character Recognition (OCR),
+Currently supports the conversion of format of pdf/tif to png/jpg.
+
+#### Links
+- Download: https://classifai.ai/products/
+- Source Code: https://github.com/CertifaiAI/classifai
+- Documentation: https://docs.classifai.ai/
 
 # Natural Language Processing
 
