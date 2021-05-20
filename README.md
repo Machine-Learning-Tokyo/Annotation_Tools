@@ -7,6 +7,7 @@
 - [Natural Language Processing](#natural-language-processing)
   - [Doccano](#doccano)
   - [INCEpTION](#inception)
+  - [Rasa Bulk Labelling Demo]()
 
 
 # Computer Vision
@@ -73,3 +74,8 @@ A semantic annotation platform offering intelligent assistance and knowledge man
 
 [<p align="center"><img src="https://inception-project.github.io//images/screenshot-annotation.png" width="600"></p>](https://inception-project.github.io)
 
+## Rasa Bulk Labelling Demo 
+
+A jupyter notebook that uses language embeddings and dimensionality reduction techniques to apply labels in bulk. The technique was developed at Rasa and is demonstrated in detail on [youtube](https://www.youtube.com/watch?v=T0dDetqgra4)
+
+![](https://github.com/RasaHQ/rasalit/raw/main/docs/bulk.gif)
