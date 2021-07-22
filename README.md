@@ -4,7 +4,7 @@
   - [Make Sense](#make-sense)
   - [CVAT](#cvat)
   - [Classif.ai](#classifai)
-  - [coco-annotator](#coco-annotator)
+  - [COCO Annotator](#coco-annotator)
 - [Natural Language Processing](#natural-language-processing)
   - [Doccano](#doccano)
   - [INCEpTION](#inception)
@@ -58,9 +58,15 @@ Currently supports the conversion of format of pdf/tif to png/jpg.
 - Documentation: https://docs.classifai.ai/
 
 
-## coco-annotator
+## COCO Annotator
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Annotation_Tools/blob/master/coco.gif" width="600"></p>](https://github.com/jsbroks/coco-annotator)
 
 COCO Annotator is a web-based image annotation tool designed for versatility and efficiently label images to create training data for image localization and object detection. It provides many distinct features including the ability to label an image segment (or part of a segment), track object instances, labeling objects with disconnected visible parts, efficiently storing and export annotations in the well-known COCO format. The annotation process is delivered through an intuitive and customizable interface and provides many tools for creating accurate datasets.
+
+
+
+
 
 # Natural Language Processing
 
